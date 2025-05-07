@@ -7,7 +7,7 @@ https://learnenglishteens.britishcouncil.org/grammar/a1-a2-grammar/conjunctions-
 '''
 
 
-This repository contains useful notes and explanations on key topics in **English grammar**. It is intended as a study resource for students, teachers, and anyone interested in improving their grammar skills.
+##  This repository contains useful notes and explanations on key topics in **English grammar**. It is intended as a study resource for students, teachers, and anyone interested in improving their grammar skills.
 
 ## 📘 What You'll Find
 
